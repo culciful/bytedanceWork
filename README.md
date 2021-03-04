@@ -1,9 +1,14 @@
 # bytedanceWork
+
 西电&amp;字节前端课程大作业
-启动项目 ：
+
+#### 启动项目 ：
+
 vs code打开react_staging文件夹 
 终端输入 npm start 打开页面
-目录结构：
+
+#### 目录结构：
+
 components/下三个一般组件
 components/edit 编辑文章的组件
 components/header 两个主页面的导航组件
